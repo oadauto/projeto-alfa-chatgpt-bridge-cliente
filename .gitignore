@@ -9,7 +9,7 @@ credentials
 secret
 secrets
 token
-pycache/
+__pycache__/
 *.pyc
 *.pyo
 .venv/
